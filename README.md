@@ -19,7 +19,6 @@ Retro Edit comes as an installer version. Follow these steps to install it:
 
 ## Notes
 - Files are saved in `.txt` format by default.
-- There is no undo/redo functionality.
 - This is a basic editor meant for learning and experimentation.
 
 ## Limitations
